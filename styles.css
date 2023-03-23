@@ -1,0 +1,47 @@
+#card-body{
+    color:#212175;
+}
+#header-text{
+    font-weight: bold;
+}
+#instrctn{
+    font-weight: lighter;
+}
+#num1{
+    margin-right: 35px;
+}
+.btn-plus{
+    margin-right:10px;
+    font-size: 25px;
+    width: 40px;
+    background-color:#4e82cf;
+    color: white;
+}
+.btn-minus{
+    margin-right:10px;
+    font-size: 25px;
+    width: 40px;
+    background-color:#315386;
+    color: white;
+}
+.btn-multiply{
+    margin-right:10px;
+    font-size: 25px;
+    width: 40px;
+    background-color:#4e82cf;
+    color: white;
+}
+.btn-divide{
+    margin-right:10px;
+    font-size: 25px;
+    width: 40px;
+    background-color:#315386;
+    color: white;
+}
+.btn-modulus{
+    font-size: 25px;
+    width: 40px;
+    margin-bottom: 20px;
+    background-color:#4e82cf;
+    color: white;
+}
